@@ -2,7 +2,7 @@
 array1 = []
 array2 = []
 
-with open('input_1.txt', 'r') as file:
+with open('lab_01/input_1.txt', 'r') as file:
     for line in file:
    
         numbers = line.split()
