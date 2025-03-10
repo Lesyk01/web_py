@@ -21,4 +21,4 @@ with open("lab_04/input_4.txt") as file:
 
 total = sum(size for size in dir_sizes.values() if size <= 100000)
 print("Сума:", total)
-# Answer will be: 1453349
+#  1453349
