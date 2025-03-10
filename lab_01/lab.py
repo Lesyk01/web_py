@@ -36,4 +36,5 @@ total_sum = sum(all_list)
 
 
 print("Висновок:",total_sum)
+#1660292
 
